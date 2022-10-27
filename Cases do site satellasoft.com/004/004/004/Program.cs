@@ -7,12 +7,12 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Digite sua idade:");
             int idade = Convert.ToInt32(Console.ReadLine());
-            string resposta = "a";
+            string resposta = null;
             
             resposta = validaIdade(idade, resposta);
             Console.WriteLine(resposta);
         }
-        static string validaIdade(int idade, string resposta)
+        static string validaIdade(int idade, string resposta)//FUNÇÃO - PARAMETRO POR VALOR E REFERENCIA - VALIDA A IDADE DIGITADA E VERIFICA SE TEM OU NÃO PERMISSÃO
         {
             while (idade <= 0 || idade > 120)
             {
