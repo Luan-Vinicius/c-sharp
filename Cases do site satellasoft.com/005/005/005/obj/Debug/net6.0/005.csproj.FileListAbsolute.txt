@@ -1,0 +1,15 @@
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\bin\Debug\net6.0\005.exe
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\bin\Debug\net6.0\005.deps.json
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\bin\Debug\net6.0\005.runtimeconfig.json
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\bin\Debug\net6.0\005.dll
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\bin\Debug\net6.0\005.pdb
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.AssemblyInfoInputs.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.AssemblyInfo.cs
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.dll
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\refint\005.dll
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.pdb
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\005.genruntimeconfig.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c#\004\005\005\obj\Debug\net6.0\ref\005.dll

@@ -1,0 +1,15 @@
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\bin\Debug\net6.0\Exercise004.exe
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\bin\Debug\net6.0\Exercise004.deps.json
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\bin\Debug\net6.0\Exercise004.runtimeconfig.json
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\bin\Debug\net6.0\Exercise004.dll
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\bin\Debug\net6.0\Exercise004.pdb
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.AssemblyInfoInputs.cache
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.AssemblyInfo.cs
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.dll
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\refint\Exercise004.dll
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.pdb
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\Exercise004.genruntimeconfig.cache
+C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\004\Exercise004\Exercise004\obj\Debug\net6.0\ref\Exercise004.dll
