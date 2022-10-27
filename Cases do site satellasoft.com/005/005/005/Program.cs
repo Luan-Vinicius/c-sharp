@@ -9,7 +9,7 @@ namespace Console005
             string nome = Console.ReadLine();
             Console.WriteLine(fraseNome(nome));
         }
-        static string fraseNome(string nome)
+        static string fraseNome(string nome)// FUNÇÃO - PARAMETRO POR VALOR
         {
             return "Olá, meu nome é " + nome;
         }

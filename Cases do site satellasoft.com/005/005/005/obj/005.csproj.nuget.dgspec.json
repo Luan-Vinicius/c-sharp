@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c#\\004\\005\\005\\005.csproj": {}
+    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do site satellasoft.com\\005\\005\\005\\005.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c#\\004\\005\\005\\005.csproj": {
+    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do site satellasoft.com\\005\\005\\005\\005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c#\\004\\005\\005\\005.csproj",
+        "projectUniqueName": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do site satellasoft.com\\005\\005\\005\\005.csproj",
         "projectName": "005",
-        "projectPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c#\\004\\005\\005\\005.csproj",
+        "projectPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do site satellasoft.com\\005\\005\\005\\005.csproj",
         "packagesPath": "C:\\Users\\Luan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c#\\004\\005\\005\\obj\\",
+        "outputPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do site satellasoft.com\\005\\005\\005\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luan\\AppData\\Roaming\\NuGet\\NuGet.Config",
