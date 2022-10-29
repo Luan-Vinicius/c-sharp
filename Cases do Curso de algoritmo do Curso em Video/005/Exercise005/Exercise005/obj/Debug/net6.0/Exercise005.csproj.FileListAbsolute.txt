@@ -13,3 +13,18 @@ C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\005\Exercise005\Exercise005\ob
 C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.pdb
 C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.genruntimeconfig.cache
 C:\Users\Luan\Documents\ESTUDOS\Curso em Video\c#\005\Exercise005\Exercise005\obj\Debug\net6.0\ref\Exercise005.dll
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\bin\Debug\net6.0\Exercise005.exe
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\bin\Debug\net6.0\Exercise005.deps.json
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\bin\Debug\net6.0\Exercise005.runtimeconfig.json
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\bin\Debug\net6.0\Exercise005.dll
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\bin\Debug\net6.0\Exercise005.pdb
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.AssemblyInfoInputs.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.AssemblyInfo.cs
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.dll
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\refint\Exercise005.dll
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.pdb
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\Exercise005.genruntimeconfig.cache
+C:\Users\Luan\Documents\ESTUDOS\Pratica\c-sharp\Cases do Curso de algoritmo do Curso em Video\005\Exercise005\Exercise005\obj\Debug\net6.0\ref\Exercise005.dll

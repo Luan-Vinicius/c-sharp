@@ -17,7 +17,7 @@ namespace Exercise_vetor
             Console.WriteLine("Fim do Programa..\nTecle qualquer tecla para sair.");
             Console.ReadKey();
         }
-        static void proc_receb_numero()
+        static void proc_receb_numero()//PROCED. - RECEBE DO USER, OS 7 NUMEROS
         {
             string id_phrase = "DIGITE UM NUMERO!!!";
             int count = 0;
@@ -31,7 +31,7 @@ namespace Exercise_vetor
             Console.Clear();
             verifica_parimpar(numeros);
         }
-        static int valida_numero(string id)
+        static int valida_numero(string id)//FUNÇÃO - PARAMETROS POR VALOR - PRIMEIRA TAREFA É VALIDAR SE O USER DIGITOU UM NUMERO, SEGUNDA TAREFA É VERIFICAR SE O USER DIGITOU 1 OU 2
         {
             string num = Console.ReadLine();
             int num_retorno;
@@ -54,13 +54,13 @@ namespace Exercise_vetor
                 }
                 while (num_retorno < 1 || num_retorno > 2)
                 {
-                    Console.WriteLine("PORRA MALUCO! TU É BURRO?? DIGITE 1 OU 2 !!!!");
+                    Console.WriteLine("TU É BURRO?? DIGITE 1 OU 2 !!!!");
                     num_retorno = valida_numero(id);
                 }
             }
             return num_retorno;
         }
-        static void verifica_parimpar(int[] nums)
+        static void verifica_parimpar(int[] nums)//PROCED. - PARAMETRO ARRAY POR VALOR - VERIFICA QUAIS NUMEROS SÃO PARES OU IMPARES
         {
             int count_par = 0;
             int count_impar = 0;
@@ -79,7 +79,7 @@ namespace Exercise_vetor
             }
             verifica_quant(count_impar, count_par, ref nums);
         }
-        static void verifica_quant(int im, int par, ref int[] nums)
+        static void verifica_quant(int im, int par, ref int[] nums)//PROCED. - PARAMETROS POR VALOR E REF - VERIFICA A QUANT. DE NUMEROS PARES E IMPARES, DIGITADOS
         {
             Console.WriteLine("\nNumeros Impares");
             for(int i = 0; i < 7; i++)
@@ -128,7 +128,7 @@ namespace Exercise_vetor
                 }
             }
         }
-        static bool receb_resp()
+        static bool receb_resp()//FUNÇÃO - RECEBE UMA RESPOSTA DO USER
         {
             string id_phrase = "DIGITE 1 OU 2 CARAMBA!";
             Console.WriteLine("\ntentar de novo?\n\nSe sim, digite 1\nSe não, digite 2\n");

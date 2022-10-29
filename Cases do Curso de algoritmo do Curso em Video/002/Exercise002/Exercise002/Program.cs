@@ -77,9 +77,9 @@ namespace Exer_008
             string resp = Console.ReadLine();
             while (resp != "SIM" && resp != "NAO")
             {
+                Console.Clear();
                 Console.WriteLine("Digite uma das opções: SIM ou NAO");
                 resp = Console.ReadLine();
-                Console.Clear();
             }
             if (resp == "SIM")
             {

@@ -32,7 +32,7 @@ namespace Exercicio_6
             Console.ReadKey();
 
         }
-        static string Recebe_nome(int i)
+        static string Recebe_nome(int i)//FUNÇÃO - RECEBE OS 10 NOMES
         {
             string id = "Recebe_nome";
             string nome=null;
@@ -45,7 +45,7 @@ namespace Exercicio_6
             }
             return nome;
         }
-        static void verifica_nome(string[] nome, int i)
+        static void verifica_nome(string[] nome, int i)//PROCED. - VERIFICA E ARMAZENA OS NOMES QUE COMEÇAM COM C
         {
             char[] char_nome;
             //char firtsLetter;
@@ -55,7 +55,7 @@ namespace Exercicio_6
                 Console.WriteLine(nome[i]);
             }
         }
-        static void frase(string id)
+        static void frase(string id)//PROCED. - DEPENDENDO DO ID DO METODO, RETORNA UMA FRASE DIFERENTE PARA CADA UM
         {
             switch (id)
             {
@@ -64,7 +64,7 @@ namespace Exercicio_6
                 case "recebe_resp":Console.WriteLine("DIGITA CERTO SEU ARROMBADO!!!\n");break;
             }
         }
-        static void valida_nome(string nm, ref bool con) // id = 002
+        static void valida_nome(string nm, ref bool con) //PROCED. - VALIDA O NOME. QUALQUER CARACTER ESPECIAL, NUMERO OU ACENTUAÇÃO, NÃO SERÁ ACEITO
         {
             string id = "validanome";
             if (Regex.IsMatch(nm, @"^[a-z,A-Z,"" ""]+$"))
@@ -77,7 +77,7 @@ namespace Exercicio_6
                 frase(id);
             }
         }
-        static string posicao(int i)
+        static string posicao(int i)//FUNÇÃO - RETORNA A DESCRIÇÃO DA POSIÇÃO
         {
             string ret = null;
             switch (i)
@@ -95,7 +95,7 @@ namespace Exercicio_6
             }
             return ret;
         }
-        static bool recebe_resp()
+        static bool recebe_resp()//FUNÇÃO - RECEBE E VALIDA A RESPOSTA DO USER
         {
             string id = "recebe_resp";
             Console.WriteLine("Quer fazer de novo?\nSe sim, digite 'Sim'\nSe não, digite 'Nao'");

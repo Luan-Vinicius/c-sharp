@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\006\\Exercice006\\Exercice006\\Exercice006.csproj": {}
+    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\006\\Exercice006\\Exercice006\\Exercice006.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\006\\Exercice006\\Exercice006\\Exercice006.csproj": {
+    "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\006\\Exercice006\\Exercice006\\Exercice006.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\006\\Exercice006\\Exercice006\\Exercice006.csproj",
+        "projectUniqueName": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\006\\Exercice006\\Exercice006\\Exercice006.csproj",
         "projectName": "Exercice006",
-        "projectPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\006\\Exercice006\\Exercice006\\Exercice006.csproj",
+        "projectPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\006\\Exercice006\\Exercice006\\Exercice006.csproj",
         "packagesPath": "C:\\Users\\Luan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\006\\Exercice006\\Exercice006\\obj\\",
+        "outputPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\006\\Exercice006\\Exercice006\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\005\\Exercise005\\Exercise005\\Exercise005.csproj",
+      "projectUniqueName": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\005\\Exercise005\\Exercise005\\Exercise005.csproj",
       "projectName": "Exercise005",
-      "projectPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\005\\Exercise005\\Exercise005\\Exercise005.csproj",
+      "projectPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\005\\Exercise005\\Exercise005\\Exercise005.csproj",
       "packagesPath": "C:\\Users\\Luan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Curso em Video\\c#\\005\\Exercise005\\Exercise005\\obj\\",
+      "outputPath": "C:\\Users\\Luan\\Documents\\ESTUDOS\\Pratica\\c-sharp\\Cases do Curso de algoritmo do Curso em Video\\005\\Exercise005\\Exercise005\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luan\\AppData\\Roaming\\NuGet\\NuGet.Config",

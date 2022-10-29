@@ -19,7 +19,7 @@ namespace Exercise005
             Console.WriteLine("Fim do Programa!\nDigite qualquer tecla para sair....");
             Console.ReadKey();
         }
-        static void proc_receb_aluno(ref bool r)
+        static void proc_receb_aluno(ref bool r)//PROCED. - PARAMETRO POR REF. - RECEBE O NOME E AS NOTAS DOS ALUNOS E MOSTRA A MEDIA
         {
             string id = "proc_receb_aluno1";
             string id2 = "proc_receb_aluno2";
@@ -39,16 +39,17 @@ namespace Exercise005
             Console.Clear();
             for (int i = 0; i < 4; i++)
             {
+                int i1 = 0; int i2 = 1;
                 Console.WriteLine("Aluno: " + alunos[i]);
-                Console.WriteLine(posi(i, id2) + " nota: " + nota1[i]);
-                Console.WriteLine(posi(i, id2) + " nota: " + nota2[i]);
+                Console.WriteLine(posi(i1, id2) + " nota: " + nota1[i]);
+                Console.WriteLine(posi(i2, id2) + " nota: " + nota2[i]);
                 Console.WriteLine("Média: " + media[i] + "\n");
             }
             Console.WriteLine("A media da turma é " + (media_turma/4)+"\n");
             aluno_media(alunos, media, media_turma);
             r = receb_resp();
         }
-        static string receb_aluno()
+        static string receb_aluno()//FUNCÃO - RECEBE E VALIDA O NOME DO ALUNO
         {
             bool test = true;
             string aluno = null;
@@ -68,7 +69,7 @@ namespace Exercise005
             }
             return aluno;
         }
-        static float receb_nota_calc_media(ref float[] n1, ref float[] n2, int c, ref float MT)
+        static float receb_nota_calc_media(ref float[] n1, ref float[] n2, int c, ref float MT)//FUNÇÃO - RECEBE E VALIDA A NOTA. TAMBÉM VALIDA PARA QUE A NOTA SEJA ENTRE 0 E 10
         {
             bool status = true;
             string id = "receb_nota";
@@ -111,7 +112,7 @@ namespace Exercise005
             }
             return calc_media(n1, n2, c, ref MT);
         }
-        static void aluno_media(string[] aluno, float[] m_aluno, float media_t)
+        static void aluno_media(string[] aluno, float[] m_aluno, float media_t)//PROCED. - PARAMETROS VALOR E REF - COMPARA E MOSTRA QUAIS ALUNOS FICARAM ACIMA DA MEDIA DA TURMA
         {
             int cont = 0;
             for (int i=0; i < 4; i++)
@@ -127,12 +128,12 @@ namespace Exercise005
                 Console.WriteLine("Nenhum aluno ficou acima da média da turma");
             }
         }
-        static float calc_media(float[] n1, float[] n2, int c, ref float MT)
+        static float calc_media(float[] n1, float[] n2, int c, ref float MT)//FUNÇÃO - PARAMETROS VALOR E REF - CALCULA A MEDIA DA TURMA
         {
             MT = MT + ((n1[c] + n2[c])/2);
             return (n1[c] + n2[c]) / 2;
         }
-        static string posi(int i, string id)
+        static string posi(int i, string id)// FUNÇÃO - PARAMETROS VALOR - VERIFICA A POSIÇÃO PARA RETORNAR A DESCRIÇÃO DA POSIÇÃO
         {
             string resp = null;
             switch (i)
@@ -162,7 +163,7 @@ namespace Exercise005
             }
             return resp;
         }
-        static bool receb_resp()
+        static bool receb_resp()//FUNÇÃO - RECEBE E VALIDA A RESPOSTA DO USER
         {
             bool resp_return = true;
             bool cond = true;
