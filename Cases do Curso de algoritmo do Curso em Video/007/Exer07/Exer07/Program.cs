@@ -107,7 +107,7 @@ namespace Exercise007
                     {
                         bool cond2 = true;
                         num_in = Convert.ToString(num_out);
-                        while (true == cond && true == cond2)
+                        while (true == cond2)
                         {
                             if (false == int.TryParse(num_in, out num_out))
                             {
@@ -121,6 +121,7 @@ namespace Exercise007
                                 {
                                     num_in = Convert.ToString(num_out);
                                     cond2 = false;
+                                    cond = false;
                                 }
                                 else
                                 {
@@ -131,15 +132,18 @@ namespace Exercise007
                             }
                         }
                     }
-                    if (2 > num_out || 20 < num_out)//VALIDA SE O USER DIGITOU UM NUMERO ENTRE 2 E 20
-                    {
-                        Console.WriteLine("Você poderá calcular de 2 até 20 numeros! Digite novamente:");
-                        cond = true;
-                    }
                     else
                     {
-                        Console.Clear();
-                        cond = false;
+                        if (2 > num_out || 20 < num_out)//VALIDA SE O USER DIGITOU UM NUMERO ENTRE 2 E 20
+                        {
+                            Console.WriteLine("Você poderá calcular de 2 até 20 numeros! Digite novamente:");
+                            cond = true;
+                        }
+                        else
+                        {
+                            Console.Clear();
+                            cond = false;
+                        }
                     }
                 }
                 /*if (id == "recebe_resp")
@@ -187,10 +191,12 @@ namespace Exercise007
             }
             if (1==Convert.ToInt32(resp))
             {
+                Console.Clear();
                 return true;
             }
             else
             {
+                Console.Clear();
                 return false;
             }
         }
