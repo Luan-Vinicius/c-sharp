@@ -47,7 +47,7 @@ namespace Exercise008
             while (valida(r) == true)
             {
                 n = digite_numero();
-                Console.WriteLine(verifica_numero(n));
+                Console.WriteLine(verifica_numero(n));//verifica se o numero é par ou impar
                 Console.WriteLine("Gostaria de tentar outro numero?");
                 r = Console.ReadLine();
                 Console.Clear();
